@@ -5,4 +5,5 @@ pub mod hackerrank {
     pub mod kangaroo;
     pub mod between_two_sets;
     pub mod breaking_best_and_worst_records;
+    pub mod migratory_birds;
 }
