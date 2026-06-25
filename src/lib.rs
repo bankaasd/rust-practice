@@ -10,4 +10,5 @@ pub mod hackerrank {
     pub mod diagonal_difference;
     pub mod birthday_cake_candles;
     pub mod divisible_sum_pairs;
+    pub mod bon_appetit;
 }
