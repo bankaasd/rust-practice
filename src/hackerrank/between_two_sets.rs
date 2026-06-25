@@ -23,6 +23,6 @@ mod tests {
     fn test_get_total_x() {
         let a = vec![2, 4];
         let b = vec![16, 32, 96];
-        assert_eq!(get_total_x(&a, &b), 3); // Числа 4, 8 и 16 подходят
+        assert_eq!(get_total_x(&a, &b), 3); 
     }
 }
