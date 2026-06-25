@@ -8,4 +8,5 @@ pub mod hackerrank {
     pub mod migratory_birds;
     pub mod sock_merchant;
     pub mod diagonal_difference;
+    pub mod birthday_cake_candles;
 }
